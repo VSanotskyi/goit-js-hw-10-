@@ -89,3 +89,4 @@ function render() {
   refs.countryInfo.innerHTML = "";
   refs.countryList.innerHTML = "";
 }
+
